@@ -13,7 +13,7 @@ Alat untuk mengkompres dan konversi gambar dengan format PNG, WebP, JPEG, JPG, d
 - Tkinter
 ## Demo
 
-[![Tonton Videonya](https://i.imgur.com/G1aLsBj.png)](https://www.veed.io/view/c524c357-446c-4a87-ba5a-49368be975ae?sharingWidget=true&panel=share)
+[![Tonton Videonya](https://i.imgur.com/G1aLsBj.png)](https://www.veed.io/view/d1f9a64c-9129-4887-a730-21405cefa024?sharingWidget=true&panel=share)
 ## Fitur
 
 - Kompres Gambar
