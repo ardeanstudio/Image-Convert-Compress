@@ -1,10 +1,6 @@
 
 ![Logo](https://i.ibb.co/z4kkh5G/logo.png)
-
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-
 # Image Converter dan Compression
 
 Alat untuk mengkompres dan konversi gambar dengan format PNG, WebP, JPEG, JPG, dan PNG. Dibuat dengan bahasa pemrograman Python. Project ini membutuhkan beberapa library sebagai berikut:
@@ -13,8 +9,9 @@ Alat untuk mengkompres dan konversi gambar dengan format PNG, WebP, JPEG, JPG, d
 - Pillow
 - Pyheif
 - Tkinter
+## Demo
 
-
+[![Tonton Videonya](https://i.imgur.com/G1aLsBj.png)](https://www.veed.io/view/c524c357-446c-4a87-ba5a-49368be975ae?sharingWidget=true&panel=share)
 ## Fitur
 
 - Kompres Gambar
@@ -22,8 +19,6 @@ Alat untuk mengkompres dan konversi gambar dengan format PNG, WebP, JPEG, JPG, d
 - Support beberapa Format (PNG, JPG, JPEG, WebP, HEIC, HEIF)
 - Ringan dijalankan dan Cepat
 - Menggunakan Sumber Daya Lokal (PC)
-
-
 ## Penginstalan
 
 Ikuti Langkah Berikut untuk Penginstalan:
@@ -75,8 +70,6 @@ Silahkan, saya sangat senang jika anda antusias dalam pengembangan project ini.
 #### Dapatkah saya Menjual, White Label, dan membuat profit dari program ini?
 
 Program ini saya buat gratis untuk anda semua agar dapat menikmatinya dan mempelajari bahasa pemrograman python. Mohon memikirkan hal tersebut, apakah etis untuk menjual program hasil buatan orang lain dan mengklaim bahwa itu milik anda?
-
-
 ## Contributing
 
 Untuk Kontribusi akan selalu diterima dengan baik oleh saya!
@@ -84,9 +77,6 @@ Untuk Kontribusi akan selalu diterima dengan baik oleh saya!
 Lihat `contributing.md` untuk selalu dapat memulai.
 
 Jika anda tertarik untuk berkontribusi, silahkan lakukan dan kembangkan ya!
-
-
 ## Authors
 
 - [Ardean Bima Saputra](https://www.github.com/ardeanstudio)
-
